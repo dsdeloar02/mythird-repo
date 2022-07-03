@@ -1,0 +1,11 @@
+.container{
+    width:80%;
+    margin:10% auto;
+}
+
+.container h1{
+    padding:15px 10px;
+}
+.container p{
+    padding:15px 10px;
+}
